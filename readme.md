@@ -31,7 +31,7 @@ Use method random() to get random word of the collection
 
 Use method all() to get all words of the collection
 
-    // get all nouns
+    // get all nouns
     kraut.nouns.all();
   
 
