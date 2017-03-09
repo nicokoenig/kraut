@@ -7,7 +7,7 @@ A snappy collection of famous german words.
 
 ## Installation
 
-  `npm install kraut`
+    npm install kraut
 
 ## Usage
 
@@ -31,13 +31,13 @@ Use method random() to get random word of the collection
 
 Use method all() to get all words of the collection
 
-    // get all nouns
+    // get all nouns
     kraut.nouns.all();
   
 
 ## Tests
 
-Not yet :-/
+    npm test
 
 ## Contributing
 
