@@ -10,7 +10,7 @@ module.exports = [
 "liebkosen", 
 "gutheißen", 
 "bemuttern", 
-"anschwärze", 
+"anschwärzen", 
 "flanieren", 
 "frickeln", 
 "lustwandeln", 
