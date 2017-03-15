@@ -15,6 +15,8 @@ First require kraut
 
     var kraut = require('kraut');
 
+### Usage of kraut
+
 Kraut contains five collections of words (nouns, exclamations, greetings, verbs and adjectives)
 
     var nouns = kraut.nouns;
@@ -22,6 +24,7 @@ Kraut contains five collections of words (nouns, exclamations, greetings, verbs 
     var exclamations = kraut.exclamations;
     var verbs = kraut.verbs;
     var adjectives = kraut.adjectives;
+    var articles = kraut.articles;
 
 Use method random() to get random word of the collection
     
@@ -33,7 +36,13 @@ Use method all() to get all words of the collection
 
     // get all nouns
     kraut.nouns.all();
-  
+
+### Usage of ipsum
+
+Make a random sentence.
+
+    // make random sentence
+    kraut.ipsum.makeSentence();
 
 ## Tests
 

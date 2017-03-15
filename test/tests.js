@@ -31,3 +31,13 @@ describe('kraut', function() {
     });
 
 });
+
+
+describe('ipsum', function() {
+    
+    it('should create sentence', function() {
+        var sentence = kraut.ipsum.makeSentence();
+        expect(sentence).to.not.be.empty;
+    });
+
+});
