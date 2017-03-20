@@ -13,6 +13,8 @@ module.exports = [
 "anschwärzen", 
 "flanieren", 
 "frickeln", 
+"meucheln", 
+"stagnieren", 
 "lustwandeln", 
 "betören", 
 "bauchpinseln", 
