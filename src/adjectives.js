@@ -13,6 +13,7 @@ module.exports = [
 "schamlos", 
 "adrett", 
 "altbacken", 
+"verhärmt", 
 "ausgemergelt", 
 "nichtsnutzig", 
 "halbstark", 

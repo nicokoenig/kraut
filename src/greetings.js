@@ -4,5 +4,12 @@ module.exports = [
 "Obacht!", 
 "Horch!", 
 "Aufgemerkt!", 
-"Waidmanns Heil!"
+"Waidmanns Heil!",
+"Glück Auf!",
+"Horrido!",
+"Moinsen!",
+"Servus!",
+"Gude!",
+"Pfiat di!",
+"Griaß di!"
 ];
