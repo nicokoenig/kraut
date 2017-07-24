@@ -157,5 +157,7 @@ module.exports = [
 "Naschkatze", 
 "Rostbratwurst", 
 "Personenvereinzelungsanlage", 
-"Rädelsführer"
+"Rädelsführer",
+"Dämlack",
+"Nulpe"
 ];
