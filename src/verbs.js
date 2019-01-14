@@ -32,5 +32,5 @@ module.exports = [
 "festnageln", 
 "duellieren", 
 "krakelen",
-"lunsen"
+"lunzen"
 ];
