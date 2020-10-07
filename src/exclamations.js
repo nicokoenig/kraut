@@ -6,6 +6,7 @@ module.exports = [
 "Gott zum Gruße!", 
 "Habe die Ehre!", 
 "Mein lieber Scholli!", 
+"Holla die Waldfee!",
 "Mein lieber Herr Gesangsverein!", 
 "Lecko mio!", 
 "Ach du liebes Lottchen!", 

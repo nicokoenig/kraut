@@ -159,5 +159,6 @@ module.exports = [
 "Personenvereinzelungsanlage", 
 "Rädelsführer",
 "Dämlack",
-"Nulpe"
+"Nulpe",
+"Tragkraftspritzenfahrzeug"
 ];
