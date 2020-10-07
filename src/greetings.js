@@ -1,15 +1,15 @@
 module.exports = [
-"Gott zum Gruße!", 
-"Habe die Ehre!", 
-"Obacht!", 
-"Horch!", 
 "Aufgemerkt!", 
-"Waidmanns Heil!",
 "Glück Auf!",
+"Gott zum Gruße!", 
+"Griaß di!",
+"Gude!",
+"Habe die Ehre!", 
+"Horch!", 
 "Horrido!",
 "Moinsen!",
-"Servus!",
-"Gude!",
+"Obacht!", 
 "Pfiat di!",
-"Griaß di!"
+"Servus!",
+"Waidmanns Heil!"
 ];
