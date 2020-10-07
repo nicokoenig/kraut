@@ -1,15 +1,16 @@
 module.exports = [
+"Ach du liebes Lottchen!", 
 "Ei der Daus!", 
-"Himmel, Arsch und Zwirn!", 
-"Höchste Eisenbahn!", 
-"Maulaffen feilhalten!", 
 "Gott zum Gruße!", 
 "Habe die Ehre!", 
-"Mein lieber Scholli!", 
-"Holla die Waldfee!",
-"Mein lieber Herr Gesangsverein!", 
-"Lecko mio!", 
-"Ach du liebes Lottchen!", 
 "Heidewitzka!",
-"Potzblitz!"
+"Himmel, Arsch und Zwirn!", 
+"Höchste Eisenbahn!", 
+"Holla die Waldfee!",
+"Lecko mio!", 
+"Maulaffen feilhalten!", 
+"Mein lieber Herr Gesangsverein!", 
+"Mein lieber Scholli!", 
+"Potzblitz!",
+"Sapperlot"
 ];
